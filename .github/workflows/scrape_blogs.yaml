@@ -20,8 +20,8 @@ jobs:
         run: python scrape_blogs.py
       - name: Update commit author
         run: |
-          git config user.email "<>"
-          git config user.name "BlogBot"
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
       - name: Add and commit readme
         run: |
           git add README.md
