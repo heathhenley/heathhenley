@@ -1,7 +1,7 @@
 name: "Get latest blogs"
 on:
   schedule:
-  - cron: "0 0 * * 0"
+  - cron: "*/5 * * * *"
 jobs:
   test_project:
     runs-on: ubuntu-latest
