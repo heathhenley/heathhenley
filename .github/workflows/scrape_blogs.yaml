@@ -25,6 +25,6 @@ jobs:
       - name: Add and commit readme
         run: |
           git add README.md
-          git commit -m "Automatic readme update (blog scraper)"
+          git commit -m "Automatic readme update (blog scraper)" || exit 0
           git push origin main
       
