@@ -1,7 +1,7 @@
 name: "Get latest blogs"
 on:
   schedule:
-  - cron: "*/5 * * * *"
+  - cron: "0 0 * * *"
 jobs:
   scrape_blog:
     runs-on: ubuntu-latest
