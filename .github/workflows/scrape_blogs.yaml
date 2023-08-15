@@ -16,7 +16,7 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run blog scraper
         env:
-          BLOG_FEED_URL: ${{ env.BLOG_FEED_URL }}
+          BLOG_FEED_URL: ${{ vars.BLOG_FEED_URL }}
         run: python scrape_blogs.py
       - name: Update commit author
         run: |
