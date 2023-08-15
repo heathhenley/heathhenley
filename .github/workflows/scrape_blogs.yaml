@@ -1,0 +1,26 @@
+name: "Get latest blogs"
+on:
+  schedule:
+  - cron: "0 0 * * 0"
+jobs:
+  test_project:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+          cache: "pip"
+      - name: Install deps
+        run: pip install -r requirements.txt
+      - name: Run blog scraper
+        run: python scrape_blogs.py
+        env:
+          BLOG_FEED_URL: ${{ env.BLOG_FEED_URL }}
+      - name: Add and commit readme
+        run: |
+          git add README.md
+          git commit -m "Automatic readme update (blog scraper)"
+          git push origin main
+      
