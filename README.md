@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Modeling Sales Pipeline using Monte Carlo Simulation](https://heathhenley.github.io/posts/modeling-sales-pipeline-with-monte-carlo/)
 - [Notes: Workaround to use Railway with Git Submodules](https://heathhenley.github.io/posts/workaround-railway-with-git-submodules/)
 - [Update Github Profile Readme Dynamically using a Github Workflow](https://heathhenley.github.io/posts/update-gh-readme-with-action/)
 - [Refactoring my Simple Python Chatbot Module](https://heathhenley.github.io/posts/refactoring-chatbot-python-module/)
@@ -14,4 +15,3 @@
 - [ChE 513 Course Materials - ChE Thermodynamics (Graduate Level)](https://heathhenley.github.io/posts/thermo-class-materials/)
 - [How to Download an Image from a Google Doc](https://heathhenley.github.io/posts/download-an-image-from-a-gdoc/)
 - [YOLO-ing All the Traffic Cams](https://heathhenley.github.io/posts/yolo-all-the-traffic-cams/)
-- [New England Shipwreck Map](https://heathhenley.github.io/posts/simple-wreck-map/)
