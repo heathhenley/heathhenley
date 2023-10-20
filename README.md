@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Highlight Text From Multiple User Selections in React](https://heathhenley.github.io/posts/highlight-text-from-selection-react/)
 - [Writing in Target Language Everyday and Writescribir](https://heathhenley.github.io/posts/writing-in-target-language-everyday/)
 - [Modeling Sales Pipeline using Monte Carlo Simulation](https://heathhenley.github.io/posts/modeling-sales-pipeline-with-monte-carlo/)
 - [Notes: Workaround to use Railway with Git Submodules](https://heathhenley.github.io/posts/workaround-railway-with-git-submodules/)
@@ -14,4 +15,3 @@
 - [Where We Went: Mallorca](https://heathhenley.github.io/posts/where-we-went-mallorca/)
 - [Modeling a Sales Pipeline as a Markov Chain](https://heathhenley.github.io/posts/modeling-a-sales-pipeline-as-a-markov-chain/)
 - [ChE 513 Course Materials - ChE Thermodynamics (Graduate Level)](https://heathhenley.github.io/posts/thermo-class-materials/)
-- [How to Download an Image from a Google Doc](https://heathhenley.github.io/posts/download-an-image-from-a-gdoc/)
