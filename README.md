@@ -5,7 +5,6 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
-- [About me](https://heathhenley.github.io/about/)
 - [Some tips for working at a small company (mostly for devs)](https://heathhenley.github.io/posts/small-company/)
 - [Highlight Text From Multiple User Selections in React](https://heathhenley.github.io/posts/highlight-text-from-selection-react/)
 - [Writing in Target Language Everyday and Writescribir](https://heathhenley.github.io/posts/writing-in-target-language-everyday/)
@@ -15,3 +14,4 @@
 - [Refactoring my Simple Python Chatbot Module](https://heathhenley.github.io/posts/refactoring-chatbot-python-module/)
 - [Notes: Django w/ PostGIS on GCP Cloud Run and Github Actions](https://heathhenley.github.io/posts/django-postgis-cloud-run-gh-actions/)
 - [Where We Went: Mallorca](https://heathhenley.github.io/posts/where-we-went-mallorca/)
+- [Modeling a Sales Pipeline as a Markov Chain](https://heathhenley.github.io/posts/modeling-a-sales-pipeline-as-a-markov-chain/)
