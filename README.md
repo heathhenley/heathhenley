@@ -5,7 +5,6 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
-- [Tutoring](https://heathhenley.github.io/tutoring/)
 - [Notes From Cryptopals Challenges](https://heathhenley.github.io/posts/notes-from-cryptopals-challenges/)
 - [Random Notes About Python's Random Module](https://heathhenley.github.io/posts/python-random-module-random-notes/)
 - [Error Checking out Large Repo on GitHub Actions Windows Runner](https://heathhenley.github.io/posts/gh-actions-clone-windows-runner-error/)
