@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Newton Fractals Are Cool! And a Quick Intro to Newton's Method](https://heathhenley.github.io/posts/newton-fractals-are-cool/)
 - [Add Callout Captions to Camtasia 2023](https://heathhenley.github.io/posts/add-callout-captions-to-camtasia-2023/)
 - [Notes From Cryptopals Challenges](https://heathhenley.github.io/posts/notes-from-cryptopals-challenges/)
 - [Random Notes About Python's Random Module](https://heathhenley.github.io/posts/python-random-module-random-notes/)
@@ -14,4 +15,3 @@
 - [Writing in Target Language Everyday and Writescribir](https://heathhenley.github.io/posts/writing-in-target-language-everyday/)
 - [Modeling Sales Pipeline using Monte Carlo Simulation](https://heathhenley.github.io/posts/modeling-sales-pipeline-with-monte-carlo/)
 - [Notes: Workaround to use Railway with Git Submodules](https://heathhenley.github.io/posts/workaround-railway-with-git-submodules/)
-- [Update Github Profile Readme Dynamically using a Github Workflow](https://heathhenley.github.io/posts/update-gh-readme-with-action/)
