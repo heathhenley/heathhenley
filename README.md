@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Notes: 'Hacking' on S63](https://heathhenley.github.io/posts/hacking-on-s63/)
 - [How Does S-63 Electronic Navigational Chart (ENC) Format Work?](https://heathhenley.github.io/posts/how-does-s63-enc-format-work/)
 - [Newton Fractals Are Cool! And a Quick Intro to Newton's Method](https://heathhenley.github.io/posts/newton-fractals-are-cool/)
 - [Add Callout Captions to Camtasia 2023](https://heathhenley.github.io/posts/add-callout-captions-to-camtasia-2023/)
@@ -14,4 +15,3 @@
 - [Some tips for working at a small company (mostly for devs)](https://heathhenley.github.io/posts/small-company/)
 - [Highlight Text From Multiple User Selections in React](https://heathhenley.github.io/posts/highlight-text-from-selection-react/)
 - [Writing in Target Language Everyday and Writescribir](https://heathhenley.github.io/posts/writing-in-target-language-everyday/)
-- [Modeling Sales Pipeline using Monte Carlo Simulation](https://heathhenley.github.io/posts/modeling-sales-pipeline-with-monte-carlo/)
