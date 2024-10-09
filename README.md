@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Podcasts I've been into lately](https://heathhenley.dev/posts/podcasts/)
 - [Two similar apps with dissimilar tech stacks](https://heathhenley.dev/posts/implementing-similar-apps-with-dissimilar-stacks/)
 - [Notes: gradient descent, Newton-Raphson, Lagrange Multipliers](https://heathhenley.dev/posts/numerical-methods/)
 - [Notes: 'Hacking' on S63](https://heathhenley.dev/posts/hacking-on-s63/)
@@ -14,4 +15,3 @@
 - [Notes From Cryptopals Challenges](https://heathhenley.dev/posts/notes-from-cryptopals-challenges/)
 - [Random Notes About Python's Random Module](https://heathhenley.dev/posts/python-random-module-random-notes/)
 - [Error Checking out Large Repo on GitHub Actions Windows Runner](https://heathhenley.dev/posts/gh-actions-clone-windows-runner-error/)
-- [Some tips for working at a small company (mostly for devs)](https://heathhenley.dev/posts/small-company/)
