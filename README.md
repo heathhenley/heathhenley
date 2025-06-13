@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [A Software Engineer's Job IS to write software](https://heathhenley.dev/posts/swe-do-write-sw/)
 - [Random dice game - sims and DP solution](https://heathhenley.dev/posts/dice-game-optimal/)
 - [Advent of Code 2024 Notes](https://heathhenley.dev/posts/aoc-notes-2024/)
 - [Simple tail recursion examples](https://heathhenley.dev/posts/notes-tail-recursion/)
@@ -14,4 +15,3 @@
 - [Modeling the Cooling in a Propane Tank](https://heathhenley.dev/posts/campstove-cheme/)
 - [Podcasts I've been into lately](https://heathhenley.dev/posts/podcasts/)
 - [Two similar apps with dissimilar tech stacks](https://heathhenley.dev/posts/implementing-similar-apps-with-dissimilar-stacks/)
-- [Notes: Gradient Descent, Newton-Raphson, Lagrange Multipliers](https://heathhenley.dev/posts/numerical-methods/)
