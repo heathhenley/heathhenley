@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Using Gflags Page Heap to Debug on Windows](https://heathhenley.dev/posts/using-gflags-page-heap-to-debug-on-windows/)
 - [It's a bubble folks: 'AI' is overhyped](https://heathhenley.dev/posts/do-we-need-more-openai-wrappers/)
 - [A Software Engineer's Job IS to write software](https://heathhenley.dev/posts/swe-do-write-sw/)
 - [Random dice game - sims and DP solution](https://heathhenley.dev/posts/dice-game-optimal/)
@@ -14,4 +15,3 @@
 - [Podcast Notes and Key Takeaways](https://heathhenley.dev/posts/podcast-notes/)
 - [Drawing Cards without Replacement](https://heathhenley.dev/posts/drawing-without-replacement/)
 - [Modeling the Cooling in a Propane Tank](https://heathhenley.dev/posts/campstove-cheme/)
-- [Podcasts I've been into lately](https://heathhenley.dev/posts/podcasts/)
