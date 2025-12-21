@@ -5,6 +5,7 @@
 ## Recent Blog Posts
 [![Get latest blogs](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml/badge.svg)](https://github.com/heathhenley/heathhenley/actions/workflows/scrape_blogs.yaml)
 
+- [Simple query refactor - 100x faster](https://heathhenley.dev/posts/pg-tuple-compare-switch/)
 - [Working on a Fisheries Data Platform](https://heathhenley.dev/posts/the-fish-app/)
 - [Using Gflags Page Heap to Debug on Windows](https://heathhenley.dev/posts/using-gflags-page-heap-to-debug-on-windows/)
 - [It's a bubble folks: 'AI' is overhyped](https://heathhenley.dev/posts/do-we-need-more-openai-wrappers/)
@@ -14,4 +15,3 @@
 - [Simple tail recursion examples](https://heathhenley.dev/posts/notes-tail-recursion/)
 - [Adding Basic OAuth Flow to a MPA](https://heathhenley.dev/posts/google-auth-for-new-depths/)
 - [Podcast Notes and Key Takeaways](https://heathhenley.dev/posts/podcast-notes/)
-- [Drawing Cards without Replacement](https://heathhenley.dev/posts/drawing-without-replacement/)
